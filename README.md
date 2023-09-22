@@ -18,6 +18,8 @@ Secondly, accessibility codes were added to all images and icons within the site
 
 Lastly, there were some mistakes within the HTML codes. For instance, not all headings were in sequential order. Now the website begins with a heading of div, and sequentially leads to the last used header, div, in the footer. Also, the title for the HTML was adjusted to more accurately describe the purpose of the document. Finally, the site navigation section was fixed in both the HTML and CSS. There are three links located in the navigation section of the HTML, however not all of them contained their correlating IDs that were located within the CSS file. This required a simple fix of applying the code ID to the missing slot. Now all three navigation links work as implied.
 
+* Visit The Refactored Horiseon Website Here: [https://migsrkrd.github.io/Horiseon-Refactor/#search-engine-optimization](https://migsrkrd.github.io/Horiseon-Refactor/#search-engine-optimization)
+
 ## Table of Contents
 * [Code Refactor Example](#code-refactor-example)
 * [Usage](#usage)
