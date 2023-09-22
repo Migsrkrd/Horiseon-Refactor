@@ -102,13 +102,16 @@ Now that we can see some of the mistakes in the initial set of HTML code, here a
 
 ## Usage
 This is best used when cloning a repository through Github.
-![Git-clone-copy-SSH](<Develop/assets/images/Screenshot 2023-09-20 192728.png>)
-<br>
+
+![Git-clone-copy-SSH](<images/Screenshot 2023-09-20 192728.png>)
+
+
 
 Then the SSH key copy can be inserted into any file destination on your own device through your command line
 
-![Git-Clone-Command-Line](<Develop/assets/images/Screenshot 2023-09-20 192810.png>)
-<br>
+![Git-Clone-Command-Line](<images/Screenshot 2023-09-20 192810.png>)
+
+
 
 ## Learning Points
 
